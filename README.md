@@ -6,3 +6,5 @@ Corresponding test components can be found at target/test-classes/com/challenge/
 - TollCalculatorTest  : Toll fees calculation with different time based scenarios 
 - TollFreeDateCheckerTest : Test scenarios based on weekends and specific month & year
 - TollFreeVehicleCheckerTest : Test scenarios based on vehicle type
+
+Also, the gif in the challenge is from "Hacker" movie
